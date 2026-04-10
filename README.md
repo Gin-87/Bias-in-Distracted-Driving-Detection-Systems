@@ -43,7 +43,7 @@ The State Farm dataset is available at https://www.kaggle.com/competitions/state
 
 ## Project Structure
 ```
-├── notebook.ipynb      # Main analysis notebook (Google Colab)
+├── bias.ipynb      # Main analysis notebook (Google Colab)
 └── README.md
 ```
 
