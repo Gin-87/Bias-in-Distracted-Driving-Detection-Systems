@@ -45,6 +45,7 @@ The State Farm dataset is available at https://www.kaggle.com/competitions/state
 ```
 ├── bias.ipynb      # Main analysis notebook (Google Colab)
 └── README.md
+└── newimgs10.zip
 ```
 
 ## Setup & Usage
